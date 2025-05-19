@@ -1,2 +1,2 @@
 # Amazon-App
-this is my Project
+This is My First Project
